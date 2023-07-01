@@ -12,8 +12,8 @@ import { ConfigModule } from '@nestjs/config';
         port: 587,
         secure: false,
         auth: {
-          user: 'cassidy.metz56@ethereal.email',
-          pass: 'qB7uJfpZrhkfbWUbQh',
+          user: 'nathanael.vandervort31@ethereal.email',
+          pass: 'YeT27FHj5KgUZXjnaU',
         },
       },
     }),
